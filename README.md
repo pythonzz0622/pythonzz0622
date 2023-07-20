@@ -2,6 +2,7 @@
 새로운 것을 배우는 것을 두려워 하지 않고  
 현재 직면한 다양한 문제를 해결해나가는 것에 즐거움이 있습니다.
 
+Notion 포트폴리오 : https://pyscience.notion.site/1ac7f3fb098e43a19af5e976f350ed6c?pvs=4
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
