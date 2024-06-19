@@ -4,7 +4,7 @@
 - **Computer Vision**
   - Open-vocabulary object detection,  Segmentation, Multi Object Tracking, Monocular Metric Depth estimation
 - **Deep Learning**
-  - Continous learning
+  - Continous learning, zero-shot learning
 
 ## 🔭 Careers
 - Research Engineer at Massive Mind (2023.10 ~ present)
