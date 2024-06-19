@@ -1,6 +1,8 @@
-안녕하십니까 주어진 문제를 해결하고 개선해 나가는 것에 열정과 간절함이 있는 데이터 분석가 김지원입니다.  
-새로운 것을 배우는 것을 두려워 하지 않고  
-현재 직면한 다양한 문제를 해결해나가는 것에 즐거움이 있습니다.
+## 🌱 Interests
+- **Computer Vision**
+  - Open-vocabulary object detection,  Segmentation, Multi Object Tracking, Monocular Metric Depth estimation
+- **Deep Learning**
+  - Continous learning
 
 *Public AI* 
 
