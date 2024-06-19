@@ -1,17 +1,14 @@
+<h1 align="center">Hi 👋, I'm Hyunggi</h1>
+
 ## 🌱 Interests
 - **Computer Vision**
   - Open-vocabulary object detection,  Segmentation, Multi Object Tracking, Monocular Metric Depth estimation
 - **Deep Learning**
   - Continous learning
 
-*Public AI* 
-
-2022.06 ~ 2022.09
-
-*Massive Mind* 
-
-2023.10 ~ 
-
+## 🔭 Careers
+- Massive Mind (2023.10 ~ present)
+- Public AI (2022.06 ~ 2022.09)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
