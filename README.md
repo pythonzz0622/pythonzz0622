@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hyunggi</h1>
+<h1 align="center">Hi 👋, I'm Ji Won</h1>
 
 ## 🌱 Interests
 - **Computer Vision**
