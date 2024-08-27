@@ -2,7 +2,7 @@
 
 ## 🌱 Interests
 - **Computer Vision**
-  - Open-vocabulary OD,  Segmentation, Multi Object Tracking, Monocular Metric Depth estimation
+  - Open-vocabulary OD,  Segmentation, Multi Object Tracking, Monocular Metric Depth estimation, Surface Anomaly Detection
 - **Deep Learning**
   - Continous learning, zero-shot learning, Distillation
 
