@@ -7,7 +7,7 @@
   - Continous learning, zero-shot learning, Distillation
 
 ## 🔭 Careers
-- Research Engineer at Massive Mind (2023.10 ~ present)
+- Research Engineer at Massive Mind (2023.10 ~ 2024.09)
 - SW Engineer Intern at Public AI (2022.06 ~ 2022.09)
 - GNU ML lab Undergraduate research assistant (2021.06 ~ 2023.06)
 
