@@ -9,7 +9,6 @@
 ## 🔭 Careers
 - Research Engineer at Massive Mind (2023.10 ~ 2024.09)
 - SW Engineer Intern at Public AI (2022.06 ~ 2022.09)
-- GNU ML lab Undergraduate research assistant (2021.06 ~ 2023.06)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
